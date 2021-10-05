@@ -3,7 +3,8 @@ I just couldn't play with the camera drifting around, so I fixed it.
 Mouse mostly back in full control of the camera direction :)  
 There is still a drift when running to the right and then aiming depending on where you aim at (aim at your feet and you'll see).  
 Because the aiming camera overrides does rotate around the target.. and somehow the forward direction gets changed.  
-I'll try to find another patch point for this second weird behavior.
+I'll try to find another patch point for this second weird behavior.  
+..and to modify the camera pitch angle, currently aiming behind Aloy's head.
 
 ## how-to
 Either Compile the main.cpp or download the executable.
