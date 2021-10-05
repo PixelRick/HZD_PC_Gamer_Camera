@@ -1,7 +1,11 @@
 # HZD_PC_Gamer_Camera
 I just couldn't play with the camera drifting around, so I fixed it.  
-Mouse back in full control of the camera direction :)  
-Run the game, then this exe, and enjoy the relief of having a stable camera.
+Mouse back in full control of the camera direction :)
+
+## how-to
+Either Compile the main.cpp or download the executable.
+Run the game, then the exe, and enjoy the relief of having a stable camera.
+
 
 ## Works for the 2-Feb-21 version 
 It's not meant to survive next game updates as I'm not expecting any soon.  
