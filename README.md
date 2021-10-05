@@ -1,7 +1,7 @@
 # HZD_PC_Gamer_Camera
 I just couldn't play with the camera drifting around, so I fixed it.  
-Mouse mostly back in full control of the camera direction :)
-There is still a small flash-drift when going from running to the right to aiming (doesn't happen when running to the left).
+Mouse mostly back in full control of the camera direction :)  
+There is still a small flash-drift when going from running to the right to aiming (doesn't happen when running to the left).  
 I didn't notice this small bug, probably comes from the aiming camera override using speed data to derive the panning offset instead of reading the panning offset.. as in "logic", duh.
 
 ## how-to
