@@ -1,5 +1,5 @@
 # HZD_PC_Gamer_Camera
-I just couldn't play with the camera drifting around, so I fixed it.  
+I just couldn't play with Horizon Zero Dawn's camera drifting around, so I fixed it.  
 Mouse mostly back in full control of the camera direction :)  
 There is still a drift when running to the right and then aiming depending on where you aim at (aim at your feet and you'll see).  
 Because the aiming camera overrides does rotate around the target.. and somehow the forward direction gets changed.  
