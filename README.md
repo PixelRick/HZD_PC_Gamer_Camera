@@ -12,8 +12,8 @@ Run the game, then the exe, and enjoy the relief of having a stable camera.
 
 
 ## Works for the 2-Feb-21 version 
-It's not meant to survive next game updates as I'm not expecting any soon.  
-If you happen to come on this page after one, just open an issue and i'll update it.
+It's not really meant to survive next game updates (as I'm not expecting any soon) but it could.
+If you happen to come on this page after one and the program errors, just open an issue and i'll update it.
 
 ## CameraOrbitFollow
 The reason for all the troubles is that their camera is not a standard over the shoulder one, it is always straight behind the player, but pans.  
